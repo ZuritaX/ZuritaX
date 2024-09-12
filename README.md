@@ -1,4 +1,7 @@
-<img align='right' src="https://github.com/user-attachments/assets/c9a0c310-c462-4ca1-a58a-249416886479" width="130">
+<h1>
+  <img align='right' src="https://github.com/user-attachments/assets/c9a0c310-c462-4ca1-a58a-249416886479" width="130">
+
+</h1>
 
 ## PPZurita
 ## Full Stack Developer 😁
