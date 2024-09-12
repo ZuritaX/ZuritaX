@@ -1,4 +1,4 @@
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://media.tenor.com/images/7a5295d6b80c8a334c7d0b27f761ee3d/tenor.gif" width="230">
 
 ## PPZurita
 ## Full Stack Developer 😁
