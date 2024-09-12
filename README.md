@@ -1,4 +1,4 @@
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120">
+<img align='right' src="https://github.com/user-attachments/assets/c9a0c310-c462-4ca1-a58a-249416886479" width="130">
 
 ## PPZurita
 ## Full Stack Developer 😁
