@@ -1,8 +1,11 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ## PPZurita
-## Full Stack Developer 😁![VenezuelaFlagGifGIF](https://github.com/user-attachments/assets/fbdffc9b-e34f-4aef-bf7b-99325651ccef)!
-![ChileFlagGifGIF (2)](https://github.com/user-attachments/assets/61a7bd90-88f9-4d04-a4e8-ff8b48e45e0b)
+## Full Stack Developer 😁
+<div>
+  <img src="https://github.com/user-attachments/assets/fbdffc9b-e34f-4aef-bf7b-99325651ccef" alt="Venezuela Flag" width="100" style="display:inline-block; vertical-align:middle;"/>
+  <img src="https://github.com/user-attachments/assets/61a7bd90-88f9-4d04-a4e8-ff8b48e45e0b" alt="Chile Flag" width="100" style="display:inline-block; vertical-align:middle;"/>
+</div>
 
 
 
