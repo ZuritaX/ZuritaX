@@ -29,11 +29,4 @@ const pedroPerlaza = {
 }
 ```
 
----
-⭐️ From [@ashrafkm](https://github.com/ashrafkm)
 
-
-----
-Credit: [ashrafkm](https://github.com/ashrafkm)
-
-Last Edited on: 08/09/2020
