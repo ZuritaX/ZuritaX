@@ -20,10 +20,10 @@ const pedroPerlaza = {
     pronouns: "He" | "Him",
     askMeAbout: ["full stack development", "web design", "cybersecurity"],
     technologies: {
-        backEnd: ["nodejs", "express", "python"],
+        backEnd: ["nodejs", "express", "python","java"],
         frontEnd: ["react", "angular", "vue"],
         mobileApp: ["ionic", "react-native"],
-        database: ["mongoDB", "mySQL"],
+        database: ["mongoDB", "mySQL", "PostgreSQL"],
         serverless: ["aws-lambda", "firebase"],
         devOps: ["AWS", "Docker", "CI/CD"],
         misc: ["GraphQL", "Socket.IO"]
