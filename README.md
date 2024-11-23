@@ -20,15 +20,13 @@ const pedroPerlaza = {
     pronouns: "He" | "Him",
     askMeAbout: ["full stack development", "web design", "cybersecurity"],
     technologies: {
-        backEnd: ["nodejs", "express", "python","java"],
-        frontEnd: ["react", "angular", "vue"],
-        mobileApp: ["ionic", "react-native"],
+        backEnd: ["python","java"],
+        frontEnd: ["react"],
         database: ["mongoDB", "mySQL", "PostgreSQL"],
-        serverless: ["aws-lambda", "firebase"],
-        devOps: ["AWS", "Docker", "CI/CD"],
-        misc: ["GraphQL", "Socket.IO"]
+        devOps: ["Docker"],
+
     },
-    architecture: ["Serverless Architecture", "Microservices", "Event-driven", "Single Page Applications", "Responsive Design"],
+    architecture: ["Serverless Architecture", "Microservices", "Single Page Applications", "Responsive Design"],
 }
 ```
 
