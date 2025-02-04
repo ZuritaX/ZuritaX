@@ -20,11 +20,10 @@ const pedroPerlaza = {
     pronouns: "He" | "Him",
     askMeAbout: ["full stack development", "web design", "cybersecurity"],
     technologies: {
-        backEnd: ["python","java"],
+        backEnd: ["python", "java", "c#", ".net core", "fastapi"],
         frontEnd: ["react"],
-        database: ["mongoDB", "mySQL", "PostgreSQL"],
+        database: ["mongoDB", "mySQL", "PostgreSQL", "SQL Server"],
         devOps: ["Docker"],
-
     },
     architecture: ["Serverless Architecture", "Microservices", "Single Page Applications", "Responsive Design"],
 }
