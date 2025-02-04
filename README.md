@@ -16,16 +16,17 @@
 
 ```javascript
 
-const pedroPerlaza = {
+const PedroPerlaza = {
     pronouns: "He" | "Him",
     askMeAbout: ["full stack development", "web design", "cybersecurity"],
     technologies: {
         backEnd: ["python", "java", "c#", ".net core", "fastapi"],
-        frontEnd: ["react"],
+        frontEnd: ["react", "boostrap"],
         database: ["mongoDB", "mySQL", "PostgreSQL", "SQL Server"],
-        devOps: ["Docker"],
+        devOps: ["Docker", "Azure"],
     },
     architecture: ["Serverless Architecture", "Microservices", "Single Page Applications", "Responsive Design"],
+    tools: ["Jira", "Azure DevOps"],
 }
 ```
 
